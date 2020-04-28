@@ -8,7 +8,7 @@
   <!-- Link to our stylesheets make sure you're connected to wifi as the stlesheets are in the cloud-->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-  <link rel="stylesheet" href="/common/css/mlain.css">
+  <link rel="stylesheet" href="/css/main.css">
   <title>Simple login app</title>
 </head>
 
