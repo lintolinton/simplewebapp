@@ -1,0 +1,81 @@
+a
+{
+  text-decoration: none;
+
+}
+
+ul
+{
+list-style: none;
+
+}
+#nl
+{
+  content: "\A";
+  white-space: pre;
+}
+
+#main-copy
+{
+  color: #611878
+}
+
+.navbar-collapse
+{
+  color:#611878
+}
+
+#logo
+{
+float: left;
+}
+#top-page
+{
+
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+
+}
+#topg
+{
+
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+
+}
+.disp{
+  display: block;
+}
+#width-required{
+  width: 10%;
+}
+
+
+.navbar-collapse
+{
+  float:right;
+}
+
+main
+{
+  clear: both;
+}
+
+header
+{
+  width:1020px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+nav ul li
+{
+  float: right;
+  margin: 3px;
+}
